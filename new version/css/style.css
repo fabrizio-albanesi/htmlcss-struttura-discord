@@ -293,6 +293,8 @@ color: transparent;
 
 #flex-container-bottom-end {
 
+    justify-content: space-between;
+    align-items: center;
     display: flex;
     justify-content: center;
     margin-top: 3px;
